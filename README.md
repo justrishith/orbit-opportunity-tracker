@@ -2,6 +2,8 @@
 
 Orbit is a focused opportunity tracker for high-school students.
 
+**Live app:** https://orbit-next-lilac.vercel.app
+
 ## Features
 
 - Grade-aware onboarding and opportunity ranking
